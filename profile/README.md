@@ -1,6 +1,6 @@
 ![cherries.works](../assets/title.png)
 
-##cherries.works
+# cherries.works
 
 Develops **open-source** software with a focus on Linux, systems programming, and lightweight developer tools.
 
